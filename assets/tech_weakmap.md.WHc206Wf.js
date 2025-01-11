@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as t}from"./chunks/framework.bsOv67li.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"tech/weakmap.md","filePath":"tech/weakmap.md"}'),c={name:"tech/weakmap.md"};function r(o,s,n,p,m,_){return t(),a("div")}const f=e(c,[["render",r]]);export{i as __pageData,f as default};
