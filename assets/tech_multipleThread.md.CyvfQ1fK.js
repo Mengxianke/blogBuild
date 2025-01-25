@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a}from"./chunks/framework.bsOv67li.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"tech/multipleThread.md","filePath":"tech/multipleThread.md"}'),r={name:"tech/multipleThread.md"};function c(o,s,l,n,p,d){return a(),t("div")}const h=e(r,[["render",c]]);export{m as __pageData,h as default};

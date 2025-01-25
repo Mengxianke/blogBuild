@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as n}from"./chunks/framework.bsOv67li.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"knowledge/index.md","filePath":"knowledge/index.md"}'),a={name:"knowledge/index.md"};function o(r,d,s,c,i,p){return n(),t("div")}const m=e(a,[["render",o]]);export{l as __pageData,m as default};
