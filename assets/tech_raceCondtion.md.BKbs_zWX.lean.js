@@ -1,0 +1,1 @@
+import{_ as e,c as t,o}from"./chunks/framework.DEWO2zTc.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"tech/raceCondtion.md","filePath":"tech/raceCondtion.md"}'),a={name:"tech/raceCondtion.md"};function n(c,r,s,d,i,p){return o(),t("div")}const f=e(a,[["render",n]]);export{m as __pageData,f as default};
