@@ -1,1 +1,0 @@
-import{_ as e,c as t,o}from"./chunks/framework.DEWO2zTc.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"tech/methodology/index.md","filePath":"tech/methodology/index.md"}'),a={name:"tech/methodology/index.md"};function n(c,r,d,s,i,m){return o(),t("div")}const h=e(a,[["render",n]]);export{_ as __pageData,h as default};
