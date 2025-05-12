@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as n}from"./chunks/framework.DEWO2zTc.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"learning/webpack/index.md","filePath":"learning/webpack/index.md"}'),t={name:"learning/webpack/index.md"};function r(c,i,o,s,d,p){return n(),a("div")}const m=e(t,[["render",r]]);export{l as __pageData,m as default};
